@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ghanshyam Mishra/AndroidStudioProjects/greeting2/app/src/main/res/drawable/curves.xml" value="0.2385" />
+        <entry key="..\:/Users/Ghanshyam Mishra/AndroidStudioProjects/greeting2/app/src/main/res/drawable/curvess.xml" value="0.1325" />
+        <entry key="..\:/Users/Ghanshyam Mishra/AndroidStudioProjects/greeting2/app/src/main/res/font/baloo_bhai.xml" value="0.2625" />
+        <entry key="..\:/Users/Ghanshyam Mishra/AndroidStudioProjects/greeting2/app/src/main/res/layout/activity_main.xml" value="0.19725785050862452" />
+        <entry key="..\:/Users/Ghanshyam Mishra/AndroidStudioProjects/greeting2/app/src/main/res/layout/activity_secondpage.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/Ghanshyam Mishra/Downloads/andro/greeting2/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
